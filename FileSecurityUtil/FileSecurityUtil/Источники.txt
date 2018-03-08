@@ -1,0 +1,11 @@
+﻿
+https://www.pinvoke.net - c++ в c#
+https://msdn.microsoft.com/en-us/library/windows/desktop/aa379577(v=vs.85).aspx мукрасофт
+
+https://habrahabr.ru/post/130093/
+http://easyprog.ru/index.php?option=com_content&task=view&id=1807
+
+
+Вот здесь есть пример использования 
+https://www.pinvoke.net/default.aspx/advapi32.setnamedsecurityinfo - самая полезная тема 
+http://www.ict.edu.ru/ft/006184/itmo426.pdf

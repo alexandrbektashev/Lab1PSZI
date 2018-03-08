@@ -1,0 +1,7 @@
+C:\Users\aesth\source\repos\FileSecurityUtil\FileSecurityUtil\bin\Debug\FileSecurityUtil.exe.config
+C:\Users\aesth\source\repos\FileSecurityUtil\FileSecurityUtil\bin\Debug\FileSecurityUtil.exe
+C:\Users\aesth\source\repos\FileSecurityUtil\FileSecurityUtil\bin\Debug\FileSecurityUtil.pdb
+C:\Users\aesth\source\repos\FileSecurityUtil\FileSecurityUtil\obj\Debug\FileSecurityUtil.csprojResolveAssemblyReference.cache
+C:\Users\aesth\source\repos\FileSecurityUtil\FileSecurityUtil\obj\Debug\FileSecurityUtil.csproj.CoreCompileInputs.cache
+C:\Users\aesth\source\repos\FileSecurityUtil\FileSecurityUtil\obj\Debug\FileSecurityUtil.exe
+C:\Users\aesth\source\repos\FileSecurityUtil\FileSecurityUtil\obj\Debug\FileSecurityUtil.pdb
