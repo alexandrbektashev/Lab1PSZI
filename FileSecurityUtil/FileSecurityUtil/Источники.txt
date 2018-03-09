@@ -9,3 +9,9 @@ http://easyprog.ru/index.php?option=com_content&task=view&id=1807
 Вот здесь есть пример использования 
 https://www.pinvoke.net/default.aspx/advapi32.setnamedsecurityinfo - самая полезная тема 
 http://www.ict.edu.ru/ft/006184/itmo426.pdf
+
+я наконец-то нашел, где можно понять, как юзать сетфилесекурити - здесь: http://www.e-reading.by/bookreader.php/141823/Hart_-_Sistemnoe_programmirovanie_v_srede_Windows.html#label76
+от начала 15 главы и до забора
+
+портировать это https://ru.wikipedia.org/wiki/DACL
+прочитать это с 15 главы http://www.e-reading.by/bookreader.php/141823/Hart_-_Sistemnoe_programmirovanie_v_srede_Windows.html#label76 

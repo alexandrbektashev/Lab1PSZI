@@ -11,20 +11,9 @@ namespace FileSecurityUtil
     {
         static int Main(string[] args)
         {
-            IntPtr ptr = WinAPI.FindWindow(null, "Документы");
-            Console.WriteLine(ptr.ToString());
-            IntPtr child;
-            StringBuilder title = new StringBuilder();
-            if (ptr.ToInt32() != 0)
-            {
-                child = WinAPI.GetWindow(ptr, WinAPI.GetWindow_Cmd.GW_CHILD);
-                Console.WriteLine(child.ToString());
-                WinAPI.SendMessage(child, Convert.ToInt32(WinAPI.GetWindow_Cmd.WM_GETTEXT), (IntPtr)20, title);
-                Console.WriteLine(title.ToString());
-            }
-
+            
             string fn = Console.ReadLine();
-            Security.SetFileOrFolderOwner(fn);
+            SecurityOld.SetFileOrFolderOwner(fn);
 
             Console.Read();
             return 0;
