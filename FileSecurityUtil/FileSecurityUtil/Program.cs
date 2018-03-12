@@ -13,7 +13,8 @@ namespace FileSecurityUtil
         {
             
             string fn = Console.ReadLine();
-            SecurityOld.SetFileOrFolderOwner(fn);
+
+            Console.WriteLine(FS.SetAtributes(fn));
 
             Console.Read();
             return 0;

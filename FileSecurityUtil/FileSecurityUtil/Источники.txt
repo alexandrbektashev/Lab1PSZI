@@ -14,4 +14,8 @@ http://www.ict.edu.ru/ft/006184/itmo426.pdf
 от начала 15 главы и до забора
 
 портировать это https://ru.wikipedia.org/wiki/DACL
+
 прочитать это с 15 главы http://www.e-reading.by/bookreader.php/141823/Hart_-_Sistemnoe_programmirovanie_v_srede_Windows.html#label76 
+
+
+!! все поортировать и читать ничего на СИ не нужно, надо изучит FileSecurityInfo и еще System.Security.AccessControl.FileSecurity
