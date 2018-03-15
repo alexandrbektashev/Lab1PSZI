@@ -1,0 +1,7 @@
+c:\users\aesth\source\repos\FileSecurity\FileSecurity\obj\Debug\FileSecurity.csprojResolveAssemblyReference.cache
+c:\users\aesth\source\repos\FileSecurity\FileSecurity\obj\Debug\FileSecurity.csproj.CoreCompileInputs.cache
+c:\users\aesth\source\repos\FileSecurity\FileSecurity\bin\Debug\FileSecurity.exe.config
+c:\users\aesth\source\repos\FileSecurity\FileSecurity\bin\Debug\FileSecurity.exe
+c:\users\aesth\source\repos\FileSecurity\FileSecurity\bin\Debug\FileSecurity.pdb
+c:\users\aesth\source\repos\FileSecurity\FileSecurity\obj\Debug\FileSecurity.exe
+c:\users\aesth\source\repos\FileSecurity\FileSecurity\obj\Debug\FileSecurity.pdb
