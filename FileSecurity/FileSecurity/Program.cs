@@ -8,7 +8,7 @@ namespace FileSecurityChanger
     {
         static void Main(string[] args)
         {
-
+            const string fileconf = "rights.txt";
             //Программа изменяет список прав доступа (ACL) на файлы
             //Записывает список правил доступа в файл rights.txt
 
@@ -17,7 +17,27 @@ namespace FileSecurityChanger
 
             try
             {
-                
+                StreamReader sr;
+                StreamWriter sw;
+                string pswrd;
+                if (!File.Exists(fileconf))
+                {
+                    Console.WriteLine("The password isn't set.");
+                    Console.WriteLine("Enter the new password");
+                    pswrd = Console.ReadLine();
+                    sw = new StreamWriter(fileconf);
+                    sw.WriteLine(pswrd);
+                    sw.Close();
+                    
+                }
+                else
+                {
+                    Console.WriteLine("Enter the password");
+                    pswrd = Console.ReadLine();
+                }
+                sr = new StreamReader(fileconf);
+                if (sr.ReadLine() != pswrd) throw new Exception("Wrong password."); 
+
                 Console.WriteLine("Enter filename:");
                 string filename = Console.ReadLine();
                 
