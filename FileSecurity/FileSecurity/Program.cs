@@ -26,9 +26,9 @@ namespace FileSecurityChanger
                     Console.WriteLine("Enter the new password");
                     pswrd = Console.ReadLine();
                     sw = new StreamWriter(fileconf);
-                    sw.WriteLine(pswrd);
+                    sw.WriteLine(pswrd.GetHashCode());
                     sw.Close();
-                    
+
                 }
                 else
                 {
@@ -36,7 +36,7 @@ namespace FileSecurityChanger
                     pswrd = Console.ReadLine();
                 }
                 sr = new StreamReader(fileconf);
-                if (sr.ReadLine() != pswrd) throw new Exception("Wrong password."); 
+                if (sr.ReadLine() != pswrd.GetHashCode().ToString()) throw new Exception("Wrong password.");
 
                 Console.WriteLine("Enter filename:");
                 string filename = Console.ReadLine();
