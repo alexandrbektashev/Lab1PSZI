@@ -1,7 +1,0 @@
-C:\Users\aesth\source\repos\FileSecurityMSDN\FileSecurityMSDN\bin\Debug\FileSecurityMSDN.exe.config
-C:\Users\aesth\source\repos\FileSecurityMSDN\FileSecurityMSDN\bin\Debug\FileSecurityMSDN.exe
-C:\Users\aesth\source\repos\FileSecurityMSDN\FileSecurityMSDN\bin\Debug\FileSecurityMSDN.pdb
-C:\Users\aesth\source\repos\FileSecurityMSDN\FileSecurityMSDN\obj\Debug\FileSecurityMSDN.csprojResolveAssemblyReference.cache
-C:\Users\aesth\source\repos\FileSecurityMSDN\FileSecurityMSDN\obj\Debug\FileSecurityMSDN.csproj.CoreCompileInputs.cache
-C:\Users\aesth\source\repos\FileSecurityMSDN\FileSecurityMSDN\obj\Debug\FileSecurityMSDN.exe
-C:\Users\aesth\source\repos\FileSecurityMSDN\FileSecurityMSDN\obj\Debug\FileSecurityMSDN.pdb
